@@ -1,0 +1,7 @@
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\bin\Debug\variablesAndDataTypesExercise.exe.config
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\bin\Debug\variablesAndDataTypesExercise.exe
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\bin\Debug\variablesAndDataTypesExercise.pdb
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\obj\Debug\variablesAndDataTypesExercise.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\obj\Debug\variablesAndDataTypesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\obj\Debug\variablesAndDataTypesExercise.exe
+C:\Users\Matt\source\repos\variablesAndDataTypesExercise\variablesAndDataTypesExercise\obj\Debug\variablesAndDataTypesExercise.pdb
